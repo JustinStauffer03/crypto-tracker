@@ -1,3 +1,5 @@
+Crypto Tracker Dashboard is a fully responsive React + Tailwind CSS web app that provides real-time cryptocurrency market insights using the CoinGecko API. It features a sleek dark/light mode toggle, live search filtering, and interactive 7-day price history charts powered by Chart.js. Users can simulate crypto investments by buying coins with USD (not whole quantities), track their portfolio’s total value, and view individual profit/loss metrics. The app automatically refreshes market data every 60 seconds and includes a manual "Refresh Now" button, ensuring the data stays up-to-date at all times.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
